@@ -14,4 +14,4 @@ I build systems and models for trading: market-data pipelines, backtests, and si
 
 **Tech:** Python, AsyncIO, ZeroMQ, PostgreSQL, InfluxDB, AWS, pandas
 
-**Contact:** [rian.irish@pm.me](mailto:rian.irish@pm.me) · [LinkedIn](https://www.linkedin.com/in/ryan-irish101)
+**Contact:** [irish.ry@pm.me](mailto:irish.ry@pm.me) · [LinkedIn](https://www.linkedin.com/in/ryan-irish101)
