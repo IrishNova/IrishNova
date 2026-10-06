@@ -1,4 +1,4 @@
-# Rìan
+# Ryan
 
 Quantitative trading and research · Python
 
