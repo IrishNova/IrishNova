@@ -1,16 +1,14 @@
-## Hi there 👋
+# Rìan
 
-<!--
-**IrishNova/IrishNova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quantitative trading and research · Python
 
-Here are some ideas to get you started:
+I build systems and models for trading: market-data pipelines, backtests, and simulations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently**
+- [What you're doing now: studying, working, job hunting]
+- Building a multi-venue prediction-market data and arbitrage system (private while I tidy it)
+- Preparing write-ups of past projects; public repos will return with proper documentation
+
+**Tech:** Python, AsyncIO, ZeroMQ, PostgreSQL, InfluxDB, AWS, pandas
+
+**Contact:** [email] · [LinkedIn]
